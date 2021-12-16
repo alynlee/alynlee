@@ -1,6 +1,6 @@
-## Machine Learning Engineer
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alynlee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Machine Learning Engineer
 
 I have four to five years of experience as a machine learning engineer and software developer in Korea. I design machine learning models and develop machine learning-based software to be embedded into final products. I usually work in an embedded environment using Linux.
 
