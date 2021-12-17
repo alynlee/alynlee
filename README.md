@@ -30,7 +30,7 @@ I have a full range of work experience as a machine learning developer and am ca
   <br>
 
 [![Areum's GitHub stats](https://github-readme-stats.vercel.app/api?username=alynlee&show_icons=true&theme=radical) <br>
-[![Areum's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alynlee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/alynlee)
+[![Areum's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alynlee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/alynlee) <br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=howerll)](https://solved.ac/howerll)
 
 </div>
