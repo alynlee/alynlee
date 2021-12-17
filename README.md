@@ -8,14 +8,12 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br>  
   <br>
-  
-</div>
-
-<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alynlee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 ## Machine Learning Engineer
 
 I have four to five years of experience as a machine learning engineer and software developer in Korea. I design machine learning models and develop machine learning-based software to be embedded into final products. I usually work in an embedded environment using Linux.
