@@ -1,4 +1,4 @@
-<div align=center><h1>👋 Hi I'm @ areum lee </h1></div>
+<div align=center><h1>👋 Hi I'm areum </h1></div>
 
 <div>
   <h1> Machine Learning Engineer </h1>
@@ -33,8 +33,6 @@ I have a full range of work experience as a machine learning developer and am ca
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alynlee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alynlee&layout=compact&theme=dracula)](https://github.com/metleeha)
-
-출처:  [개발하는 감자 [: 개감]]
 
 </div>
 
