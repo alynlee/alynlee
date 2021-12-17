@@ -5,6 +5,8 @@ I have four to five years of experience as a machine learning engineer and softw
 
 I have a full range of work experience as a machine learning developer and am capable of system setting, data acquirement from sensors, data management, machine learning modeling, and the development of software for learning and operation. Recently, I've also been studying software optimization to make real-time operation of software smoother in limited settings.
 </div>
+<br>
+<br>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
