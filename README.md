@@ -1,6 +1,6 @@
 <div> 
 
-  <h1> 👋 Hi I'm areum </h1> <br> <h2> Machine Learning Engineer </h2>
+  <h1> 👋 Hi I'm areum <br> <h2> Machine Learning Engineer </h2> </h1>
 
 I have four to five years of experience as a machine learning engineer and software developer in Korea. I design machine learning models and develop machine learning-based software to be embedded into final products. I usually work in an embedded environment using Linux.
 
