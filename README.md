@@ -4,7 +4,7 @@
 
 I have four to five years of experience as a machine learning engineer and software developer in Korea. I design machine learning models and develop machine learning-based software to be embedded into final products. I usually work in an embedded environment using Linux.
 
-I have a full range of work experience as a machine learning developer and am capable of system setting, data acquirement from sensors, data management, machine learning modeling, and the development of software for learning and operation. Recently, I've also been studying software optimization to make real-time operation of software smoother in limited settings.
+I have a full range of work experience as a machine learning developer and am capable of system setting, data acquirement from sensors, data management, machine learning modeling, and the development of software for learning and operation. Recently, I've also been studying back-end engineering using django and flask.
 </div>
 <br>
 <br>
